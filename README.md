@@ -4,13 +4,13 @@ Simple module for demonstrating terraform source using GitHub
 
 ## String outputs
 
-* account_alias
-* account_id
-* account_url
+* aws_account_alias
+* aws_account_id
+* aws_account_url
 
 ## Map outputs
 
-* aws
+* account
   * url
   * id
   * alias
